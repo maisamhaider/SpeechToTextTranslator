@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="useful_phrases_main">
+        <item>Everyday Phrases.</item>
+        <item>Introduction.</item>
+        <item>While Travelling.</item>
+        <item>Hotelling and Accommodation.</item>
+        <item>Feeling and Emotions.</item>
+        <item>At a Restaurant.</item>
+        <item>At the Supermarket.</item>
+        <item>Asking Direction.</item>
+        <item>Emergency and Medical Help.</item>
+        <item>Days, Months and Numbers.</item>
+        <item>Problem and Issues.</item>
+    </string-array>
+
+    <string-array name="everyday_phrases_array">
+        <item>Hello.</item>
+        <item>Goodbye.</item>
+        <item>Excuse me.</item>
+        <item>I am Sorry!</item>
+        <item>Thank you.</item>
+        <item>Please.</item>
+        <item>Your welcome.</item>
+        <item>What is your name?</item>
+        <item>My name is….</item>
+        <item>Good Morning.</item>
+        <item>Good Afternoon.</item>
+        <item>Good Evening.</item>
+        <item>Good Night.</item>
+        <item>Have a nice day.</item>
+        <item>Welcome.</item>
+        <item>I Love you.</item>
+        <item>I miss you</item>
+        <item>How are you.</item>
+        <item>I am fine.</item>
+        <item>Pleased to meet you.</item>
+        <item>Where are you from?</item>
+        <item>Enjoy your meal.</item>
+        <item>I understand you.</item>
+        <item>i do not understand you.</item>
+        <item>Do you speak English.</item>
+        <item>Congratulations.</item>
+        <item>No Problem.</item>
+        <item>How much does it cost?</item>
+        <item>I need help.</item>
+        <item>Nice to meet you.</item>
+    </string-array>
+    <string-array name="introduction_array">
+        <item>What is your name?</item>
+        <item>Where are you from?</item>
+        <item>My name is…</item>
+        <item> What do you do?</item>
+        <item>How do you do?</item>
+        <item>How old are you?</item>
+        <item>Where are you stying?</item>
+        <item>So you speak English?</item>
+        <item>How long have you been here?</item>
+        <item>Are you here on business?</item>
+        <item>It was nice talking to you.</item>
+        <item>Same here.</item>
+        <item>I have to go.</item>
+        <item>You are very kind.</item>
+    </string-array>
+
+    <string-array name="while_traveling_array">
+        <item>Where is the bus station?</item>
+        <item>How much does the ticket cost?</item>
+        <item>Can you change my ticket?.</item>
+        <item>Where can i buy the ticket?</item>
+        <item>Please Call me a taxi.</item>
+        <item>Where is the train station?</item>
+        <item>Where is the airport?</item>
+        <item>Where is the arrivals?</item>
+        <item>Where is the subway?</item>
+        <item>Is this seat taken?</item>
+        <item>Where can i find a nice bar?</item>
+        <item>Where can i find a nice restaurant.</item>
+        <item>Where can i rent a car?</item>
+        <item>Here is my passport.</item>
+        <item>I am tourist.</item>
+        <item>I am here on business.</item>
+        <item>Can you please take a picture of me?</item>
+    </string-array>
+    <string-array name="hotelling_and_accommodation_array">
+        <item>I have a reservation.</item>
+        <item>I would like to check in.</item>
+        <item>I will stay tonight.</item>
+        <item>I will stay for two days.</item>
+        <item>When is check out?</item>
+        <item>Is breakfast included?</item>
+        <item>When does the breakfast start?</item>
+        <item>Do you have a room?</item>
+        <item>Is there air-conditioning?</item>
+        <item>Do you have internet?</item>
+        <item>Can you change my room please?</item>
+        <item>There is no hot water in my room.</item>
+        <item>The keys are not working.</item>
+        <item>Can someone clean my room please?</item>
+        <item>Why is the bill overcharged?</item>
+        <item>The heating does not work.</item>
+        <item>What is the wifi password?</item>
+        <item>I need a room with view.</item>
+    </string-array>
+
+    <string-array name="feelings_emotions_array">
+        <item>I love you.</item>
+        <item>I hate you.</item>
+        <item>I like you.</item>
+        <item>I miss you.</item>
+        <item>I want to be with you.</item>
+        <item>You look very beautiful.</item>
+        <item>you compete me.</item>
+        <item>Will you marry me?</item>
+        <item>I feel sad.</item>
+        <item>I want to be with you.</item>
+        <item>Do not leave me.</item>
+        <item>I can not wait for you to come back.</item>
+    </string-array>
+    <string-array name="at_a_restaurant_array">
+        <item>I have a reservation.</item>
+        <item>We will have a table for you.</item>
+        <item>Can I have the menu please?</item>
+        <item>What do you recommend on the menu?</item>
+        <item>What is the house specialty?</item>
+        <item>Can I look in the kitchen?</item>
+        <item>I am a vegetarian.</item>
+        <item>Do you have kosher food?</item>
+        <item> I do not eat pork.</item>
+        <item>How much does wine cost?.</item>
+        <item>How much time will it take for the order to be served?</item>
+        <item>Excuse me, Waiter!.</item>
+        <item>Why is it taking too long?</item>
+        <item>I did not order that.</item>
+        <item>The food is not well cooked.</item>
+        <item>The food is delicious.</item>
+        <item>The food is overcooked.</item>
+        <item>Is there alcohol in it?</item>
+        <item>Do you offer halal food?</item>
+        <item>We would like to pay, please.</item>
+        <item>We would like to pay separately.</item>
+        <item>Can I speak with the manager?</item>
+        <item>Give my compliments to the chef.</item>
+
+    </string-array>
+    <string-array name="at_the_supermarket_array">
+        <item>Where are the eggs?</item>
+        <item>Where are the fruits and vegetables?</item>
+        <item>Where is meat?</item>
+        <item>Where is the beer?</item>
+        <item>Where are the soft drinks?</item>
+        <item>Where are the household item?</item>
+        <item>Where are the snacks?</item>
+        <item>Where are the dairy products?</item>
+        <item>Where is the bread?</item>
+        <item>How much is the bill?</item>
+        <item>Do you accept card?</item>
+        <item>I want to return the product.</item>
+        <item>I want a refund.</item>
+        <item>I will pay in cash.</item>
+    </string-array>
+    <string-array name="asking_directions_array">
+        <item>I am lost.</item>
+        <item>Can you help me?</item>
+        <item>Can I help you?</item>
+        <item>Excuse me!.</item>
+        <item>Where is the subway.</item>
+        <item>Where do I go from?.</item>
+        <item>Can you take me there?</item>
+        <item>Where is the bank?</item>
+        <item>Where is the train station?</item>
+        <item>Where is the pharmacy?</item>
+        <item>Where is the airport?</item>
+        <item>Come with me.</item>
+    </string-array>
+    <string-array name="emergency_and_medical_help_array">
+        <item>I am sick.</item>
+        <item>There ia an accident.</item>
+        <item>There is an emergency.</item>
+        <item>Call the ambulance.</item>
+        <item>I need a doctor.</item>
+        <item>Do you need help?</item>
+        <item>I need help.</item>
+        <item>What is the emergency number?</item>
+        <item>Where is the nearest hospital.</item>
+        <item>I am allergic to penicillin.</item>
+        <item>I have Asthma.</item>
+        <item>I am pregnant.</item>
+        <item>I have pain in chest.</item>
+        <item>Call the fire department.</item>
+        <item>I am badly injured.</item>
+        <item>My blood group is….</item>
+        <item>Please call my emergency contact.</item>
+    </string-array>
+    <string-array name="days_months_num_array">
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+        <item>Sunday</item>
+        <item>Morning</item>
+        <item>Noon</item>
+        <item>Afternoon</item>
+        <item>Evening</item>
+        <item>Night</item>
+        <item>Midnight</item>
+        <item>One</item>
+        <item>Two</item>
+        <item>Three</item>
+        <item>Four</item>
+        <item>Five</item>
+        <item>Six</item>
+        <item>Seven</item>
+        <item>Eight</item>
+        <item>Nine</item>
+        <item>Ten</item>
+        <item>Twenty</item>
+        <item>Thirty</item>
+        <item>Forty</item>
+        <item>Fifty</item>
+        <item>Fifty</item>
+        <item>Sixty</item>
+        <item>Seventy</item>
+        <item>Eighty</item>
+        <item>Ninety</item>
+        <item>Hundred</item>
+        <item>Five Hundred</item>
+        <item>Thousand</item>
+        <item>Once</item>
+        <item>Twice</item>
+        <item>Thrice</item>
+        <item>First</item>
+        <item>Second</item>
+        <item>Third</item>
+        <item>Fourth</item>
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+    <string-array name="problems_and_issues_array">
+        <item>Sorry!</item>
+        <item>No problem.</item>
+        <item>I do not understand you.</item>
+        <item>Can you repeat that.</item>
+        <item>Can you speak a boy slowly.</item>
+        <item>My Spanish is very bad.</item>
+        <item>Do not touch me.</item>
+        <item>Help!</item>
+        <item>May I use your phone?</item>
+        <item>I need a lawyer.</item>
+        <item>Leave me alone.</item>
+        <item>Do not disturb me.</item>
+        <item>Do not worry.</item>
+    </string-array>
+
+</resources>

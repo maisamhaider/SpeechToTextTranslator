@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "600641228441",
+    "project_id": "speechtotexttranslator-66c9a",
+    "storage_bucket": "speechtotexttranslator-66c9a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600641228441:android:6d5bf262fa84b05795f208",
+        "android_client_info": {
+          "package_name": "com.example.speechtotexttranslator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "600641228441-7c2dt2ae0cd6nsvc22puri5dog8jf0at.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7L2UtaNIJOihHyA375hjUCWsYNI_9u4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "600641228441-7c2dt2ae0cd6nsvc22puri5dog8jf0at.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

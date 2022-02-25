@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+    <!-- IME -->
+    <color name="ime_foreground_symbols">#99f1f1f1</color>
+    <color name="ime_foreground_spacebar">#8af8f9fa</color>
+    <color name="ime_foreground_spacebar_pressed">#fff8f9fa</color>
+    <color name="ime_background_letters">#ff172026</color>
+    <color name="ime_background_pressed">#26ffffff</color>
+    <color name="ime_symbol_tint_accent">#75A4F5</color>
+    <color name="ime_symbol_tint">@color/ime_foreground_symbols</color>
+    <color name="transparent_black">#00000000</color>
+    <color name="ime_hwr_background">#e6172026</color>
+    <color name="ime_hwr_stroke">#ff1de9b6</color>
+    <color name="car_teal_200">#ff80cbc4</color>
+    <color name="car_teal_700">#ff00796b</color>
+</resources>

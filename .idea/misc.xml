@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/SyncMedia/Doing/SpeechToTextTranslator/app/src/main/res/layout/activity_camera_translator.xml" value="0.3546875" />
+        <entry key="..\:/SyncMedia/Doing/SpeechToTextTranslator/app/src/main/res/layout/activity_camera_translator_result.xml" value="0.3546875" />
+        <entry key="..\:/SyncMedia/Doing/SpeechToTextTranslator/app/src/main/res/layout/activity_crop.xml" value="0.3390625" />
+        <entry key="..\:/SyncMedia/Doing/SpeechToTextTranslator/app/src/main/res/layout/activity_dictionary_favorites.xml" value="0.3390625" />
+        <entry key="..\:/SyncMedia/Doing/SpeechToTextTranslator/app/src/main/res/layout/activity_dictionary_history.xml" value="0.325" />
+        <entry key="..\:/SyncMedia/Doing/SpeechToTextTranslator/app/src/main/res/layout/activity_dictionary_result.xml" value="0.325" />
+        <entry key="..\:/SyncMedia/Doing/SpeechToTextTranslator/app/src/main/res/layout/activity_dictionary_translator.xml" value="0.325" />
+        <entry key="..\:/SyncMedia/Doing/SpeechToTextTranslator/app/src/main/res/layout/activity_disctionary.xml" value="0.3390625" />
+        <entry key="..\:/SyncMedia/Doing/SpeechToTextTranslator/app/src/main/res/layout/activity_languages.xml" value="0.3546875" />
+        <entry key="..\:/SyncMedia/Doing/SpeechToTextTranslator/app/src/main/res/layout/activity_main.xml" value="0.3546875" />
+        <entry key="..\:/SyncMedia/Doing/SpeechToTextTranslator/app/src/main/res/layout/activity_offline_translator.xml" value="0.3140625" />
+        <entry key="..\:/SyncMedia/Doing/SpeechToTextTranslator/app/src/main/res/layout/activity_settings.xml" value="0.3546875" />
+        <entry key="..\:/SyncMedia/Doing/SpeechToTextTranslator/app/src/main/res/layout/activity_speech_to_note_view.xml" value="0.3546875" />
+        <entry key="..\:/SyncMedia/Doing/SpeechToTextTranslator/app/src/main/res/layout/activity_speech_to_text_notes_list.xml" value="0.3546875" />
+        <entry key="..\:/SyncMedia/Doing/SpeechToTextTranslator/app/src/main/res/layout/activity_use_full_phrases.xml" value="0.3546875" />
+        <entry key="..\:/SyncMedia/Doing/SpeechToTextTranslator/app/src/main/res/layout/activity_use_full_phrases_favorites.xml" value="0.3546875" />
+        <entry key="..\:/SyncMedia/Doing/SpeechToTextTranslator/app/src/main/res/layout/activity_use_full_phrases_result.xml" value="0.3260416666666667" />
+        <entry key="..\:/SyncMedia/Doing/SpeechToTextTranslator/app/src/main/res/layout/activity_voice_translator_favorirates_list.xml" value="0.3546875" />
+        <entry key="..\:/SyncMedia/Doing/SpeechToTextTranslator/app/src/main/res/layout/layout_languages_all_recyclerview.xml" value="0.3546875" />
+        <entry key="..\:/SyncMedia/Temp/SpeechToTextTranslator/app/src/main/res/drawable-v24/ic_not_seleceted_icon.xml" value="0.37083333333333335" />
+        <entry key="..\:/SyncMedia/Temp/SpeechToTextTranslator/app/src/main/res/drawable/ic_check_circle.xml" value="0.37083333333333335" />
+        <entry key="..\:/SyncMedia/Temp/SpeechToTextTranslator/app/src/main/res/drawable/ic_not_seleceted_icon.xml" value="0.16145833333333334" />
+        <entry key="..\:/SyncMedia/Temp/SpeechToTextTranslator/app/src/main/res/drawable/keyboard_key_background.xml" value="0.37083333333333335" />
+        <entry key="..\:/SyncMedia/Temp/SpeechToTextTranslator/app/src/main/res/drawable/selector_custom_checkbox.xml" value="0.35520833333333335" />
+        <entry key="..\:/SyncMedia/Temp/SpeechToTextTranslator/app/src/main/res/layout/activity_camera_translator.xml" value="0.25" />
+        <entry key="..\:/SyncMedia/Temp/SpeechToTextTranslator/app/src/main/res/layout/activity_camera_translator_result.xml" value="0.2833333333333333" />
+        <entry key="..\:/SyncMedia/Temp/SpeechToTextTranslator/app/src/main/res/layout/activity_crop.xml" value="0.22" />
+        <entry key="..\:/SyncMedia/Temp/SpeechToTextTranslator/app/src/main/res/layout/activity_dictionary_favorites.xml" value="0.3546875" />
+        <entry key="..\:/SyncMedia/Temp/SpeechToTextTranslator/app/src/main/res/layout/activity_dictionary_history.xml" value="0.3546875" />
+        <entry key="..\:/SyncMedia/Temp/SpeechToTextTranslator/app/src/main/res/layout/activity_dictionary_result.xml" value="0.22" />
+        <entry key="..\:/SyncMedia/Temp/SpeechToTextTranslator/app/src/main/res/layout/activity_dictionary_translate.xml" value="0.3546875" />
+        <entry key="..\:/SyncMedia/Temp/SpeechToTextTranslator/app/src/main/res/layout/activity_dictionary_translator.xml" value="0.3546875" />
+        <entry key="..\:/SyncMedia/Temp/SpeechToTextTranslator/app/src/main/res/layout/activity_disctionary.xml" value="0.33" />
+        <entry key="..\:/SyncMedia/Temp/SpeechToTextTranslator/app/src/main/res/layout/activity_keyboard.xml" value="0.18" />
+        <entry key="..\:/SyncMedia/Temp/SpeechToTextTranslator/app/src/main/res/layout/activity_languages.xml" value="0.33" />
+        <entry key="..\:/SyncMedia/Temp/SpeechToTextTranslator/app/src/main/res/layout/activity_languages2.xml" value="0.3546875" />
+        <entry key="..\:/SyncMedia/Temp/SpeechToTextTranslator/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/SyncMedia/Temp/SpeechToTextTranslator/app/src/main/res/layout/activity_offline_translator.xml" value="0.3390625" />
+        <entry key="..\:/SyncMedia/Temp/SpeechToTextTranslator/app/src/main/res/layout/activity_quiz.xml" value="0.340625" />
+        <entry key="..\:/SyncMedia/Temp/SpeechToTextTranslator/app/src/main/res/layout/activity_settings.xml" value="0.3546875" />
+        <entry key="..\:/SyncMedia/Temp/SpeechToTextTranslator/app/src/main/res/layout/activity_show_result.xml" value="0.3546875" />
+        <entry key="..\:/SyncMedia/Temp/SpeechToTextTranslator/app/src/main/res/layout/activity_speech_and_translate.xml" value="0.33" />
+        <entry key="..\:/SyncMedia/Temp/SpeechToTextTranslator/app/src/main/res/layout/activity_speech_to_note_view.xml" value="0.3546875" />
+        <entry key="..\:/SyncMedia/Temp/SpeechToTextTranslator/app/src/main/res/layout/activity_speech_to_text.xml" value="0.25" />
+        <entry key="..\:/SyncMedia/Temp/SpeechToTextTranslator/app/src/main/res/layout/activity_speech_to_text_notes_list.xml" value="0.33" />
+        <entry key="..\:/SyncMedia/Temp/SpeechToTextTranslator/app/src/main/res/layout/activity_speech_to_text_online.xml" value="0.3546875" />
+        <entry key="..\:/SyncMedia/Temp/SpeechToTextTranslator/app/src/main/res/layout/activity_text_to_speech.xml" value="0.33" />
+        <entry key="..\:/SyncMedia/Temp/SpeechToTextTranslator/app/src/main/res/layout/activity_use_full_phrases.xml" value="0.3546875" />
+        <entry key="..\:/SyncMedia/Temp/SpeechToTextTranslator/app/src/main/res/layout/activity_use_full_phrases2.xml" value="0.3546875" />
+        <entry key="..\:/SyncMedia/Temp/SpeechToTextTranslator/app/src/main/res/layout/activity_use_full_phrases_favorites.xml" value="0.3546875" />
+        <entry key="..\:/SyncMedia/Temp/SpeechToTextTranslator/app/src/main/res/layout/activity_use_full_phrases_result.xml" value="0.25" />
+        <entry key="..\:/SyncMedia/Temp/SpeechToTextTranslator/app/src/main/res/layout/activity_view_note.xml" value="0.3546875" />
+        <entry key="..\:/SyncMedia/Temp/SpeechToTextTranslator/app/src/main/res/layout/activity_voice_translate_result.xml" value="0.25" />
+        <entry key="..\:/SyncMedia/Temp/SpeechToTextTranslator/app/src/main/res/layout/activity_voice_translator.xml" value="0.33" />
+        <entry key="..\:/SyncMedia/Temp/SpeechToTextTranslator/app/src/main/res/layout/activity_voice_translator_favorirates_list.xml" value="0.3546875" />
+        <entry key="..\:/SyncMedia/Temp/SpeechToTextTranslator/app/src/main/res/layout/activity_voice_translator_histories_list.xml" value="0.3546875" />
+        <entry key="..\:/SyncMedia/Temp/SpeechToTextTranslator/app/src/main/res/layout/activity_voice_translator_result.xml" value="0.3546875" />
+        <entry key="..\:/SyncMedia/Temp/SpeechToTextTranslator/app/src/main/res/layout/activity_voice_translator_results_list.xml" value="0.3546875" />
+        <entry key="..\:/SyncMedia/Temp/SpeechToTextTranslator/app/src/main/res/layout/content_activity_use_full_phrases.xml" value="0.3546875" />
+        <entry key="..\:/SyncMedia/Temp/SpeechToTextTranslator/app/src/main/res/layout/fragment_first.xml" value="0.3546875" />
+        <entry key="..\:/SyncMedia/Temp/SpeechToTextTranslator/app/src/main/res/layout/fragment_second.xml" value="0.3546875" />
+        <entry key="..\:/SyncMedia/Temp/SpeechToTextTranslator/app/src/main/res/layout/input_keyboard.xml" value="0.25" />
+        <entry key="..\:/SyncMedia/Temp/SpeechToTextTranslator/app/src/main/res/layout/input_keyboard_layout.xml" value="0.29270833333333335" />
+        <entry key="..\:/SyncMedia/Temp/SpeechToTextTranslator/app/src/main/res/layout/layout_definitions_item.xml" value="0.3546875" />
+        <entry key="..\:/SyncMedia/Temp/SpeechToTextTranslator/app/src/main/res/layout/layout_dialog_note_title.xml" value="0.3546875" />
+        <entry key="..\:/SyncMedia/Temp/SpeechToTextTranslator/app/src/main/res/layout/layout_dictionary_definitions_item.xml" value="0.25" />
+        <entry key="..\:/SyncMedia/Temp/SpeechToTextTranslator/app/src/main/res/layout/layout_dictionary_item.xml" value="0.25" />
+        <entry key="..\:/SyncMedia/Temp/SpeechToTextTranslator/app/src/main/res/layout/layout_dictionary_meaning_item.xml" value="0.25" />
+        <entry key="..\:/SyncMedia/Temp/SpeechToTextTranslator/app/src/main/res/layout/layout_dictionary_synonyms_antonyms_item.xml" value="0.3546875" />
+        <entry key="..\:/SyncMedia/Temp/SpeechToTextTranslator/app/src/main/res/layout/layout_dictionary_translate_dialog.xml" value="0.33" />
+        <entry key="..\:/SyncMedia/Temp/SpeechToTextTranslator/app/src/main/res/layout/layout_languages_all_recyclerview.xml" value="0.3546875" />
+        <entry key="..\:/SyncMedia/Temp/SpeechToTextTranslator/app/src/main/res/layout/layout_languages_item.xml" value="0.22" />
+        <entry key="..\:/SyncMedia/Temp/SpeechToTextTranslator/app/src/main/res/layout/layout_languages_recent_recyclerview.xml" value="0.3546875" />
+        <entry key="..\:/SyncMedia/Temp/SpeechToTextTranslator/app/src/main/res/layout/layout_languages_recyclerview.xml" value="0.3546875" />
+        <entry key="..\:/SyncMedia/Temp/SpeechToTextTranslator/app/src/main/res/layout/layout_name_and_forwerd_errow.xml" value="0.3546875" />
+        <entry key="..\:/SyncMedia/Temp/SpeechToTextTranslator/app/src/main/res/layout/layout_name_and_forwerd_errow_item.xml" value="0.33" />
+        <entry key="..\:/SyncMedia/Temp/SpeechToTextTranslator/app/src/main/res/layout/layout_settings_1.xml" value="0.2" />
+        <entry key="..\:/SyncMedia/Temp/SpeechToTextTranslator/app/src/main/res/layout/layout_speech_to_text_note_item.xml" value="0.3546875" />
+        <entry key="..\:/SyncMedia/Temp/SpeechToTextTranslator/app/src/main/res/layout/layout_translate_result_item.xml" value="0.3546875" />
+        <entry key="..\:/SyncMedia/Temp/SpeechToTextTranslator/app/src/main/res/layout/layout_usefull_phrases_item.xml" value="0.33" />
+        <entry key="..\:/SyncMedia/Temp/SpeechToTextTranslator/app/src/main/res/layout/layout_usefull_phrases_result_item.xml" value="0.3546875" />
+        <entry key="..\:/SyncMedia/Temp/SpeechToTextTranslator/app/src/main/res/xml/method.xml" value="0.3546875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
